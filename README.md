@@ -15,3 +15,6 @@ Set up Visual Studio (Optional): Configure your project to include Raylib by add
 Test Raylib: Compile and run one of the example programs included with the library to ensure it's functioning correctly.
 
 By following these steps, you'll have Raylib installed on your Windows system and ready to use for game development.
+
+#YOUTUBE LINK
+https://www.youtube.com/@ianuragprasad/videos
