@@ -1,6 +1,9 @@
 # SNAKE-GAME-USING-CPP
 This repository contains a simple Snake game implemented in C++ using the Raylib library. The Snake game is a classic arcade game where the player controls a snake that grows longer as it eats food, with the objective of avoiding collisions with walls and the snake's own body.
 
+![9](https://github.com/anuragpras/snake-game/assets/123822254/2b135fce-c9ab-442d-9fce-e9fa66d464e2)
+
+
 # What is Raylib? 
 Raylib is an open-source, lightweight, and easy-to-use library for developing games and graphical applications. It's written in C programming language and primarily targets C and C++ developers, although bindings are available for other languages like C#, Python, and more. Raylib provides a variety of functions and tools for handling window creation, drawing shapes and images, handling input, playing audio, and more. It aims to abstract away some of the complexities of graphics programming while still providing enough flexibility and performance for creating 2D and 3D applications.
 
