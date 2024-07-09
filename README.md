@@ -1,23 +1,40 @@
-# SNAKE-GAME-USING-CPP
+### Snake-game
 This repository contains a simple Snake game implemented in C++ using the Raylib library. The Snake game is a classic arcade game where the player controls a snake that grows longer as it eats food, with the objective of avoiding collisions with walls and the snake's own body.
 
 ![9](https://github.com/anuragpras/snake-game/assets/123822254/2b135fce-c9ab-442d-9fce-e9fa66d464e2)
 
 
-# What is Raylib? 
-Raylib is an open-source, lightweight, and easy-to-use library for developing games and graphical applications. It's written in C programming language and primarily targets C and C++ developers, although bindings are available for other languages like C#, Python, and more. Raylib provides a variety of functions and tools for handling window creation, drawing shapes and images, handling input, playing audio, and more. It aims to abstract away some of the complexities of graphics programming while still providing enough flexibility and performance for creating 2D and 3D applications.
+# Raylib Game Development
 
-# How to Install Raylib in Windows
+## What is Raylib?
+Raylib is an open-source, lightweight library designed for game and graphical application development. It's primarily written in C and supports bindings for C++, C#, Python, and other languages. Raylib provides a wide range of functionalities to simplify tasks such as window creation, drawing shapes and images, handling input, and playing audio. It's designed to abstract away complexities while offering flexibility and performance for both 2D and 3D applications.
 
-Download Raylib: Visit the Raylib GitHub releases page, select the appropriate version (installer or portable), and download it.
+## Installation on Windows
 
-Install or Extract: If you downloaded the installer, run it and follow the on-screen instructions. For the portable version, extract the files to a preferred location on your computer.
+### Step-by-Step Installation Guide
 
-Set up Visual Studio (Optional): Configure your project to include Raylib by adding header files and linking against the library. Refer to the Raylib wiki for detailed instructions.
+1. **Download Raylib**: Visit the [Raylib GitHub releases page](https://github.com/raysan5/raylib/releases).
+   - Choose between the installer or portable version.
+   
+2. **Install or Extract**:
+   - For the installer: Run the downloaded executable and follow the on-screen instructions.
+   - For the portable version: Extract the files to your preferred location on your computer.
 
-Test Raylib: Compile and run one of the example programs included with the library to ensure it's functioning correctly.
+3. **Set up Visual Studio (Optional)**:
+   - Configure your Visual Studio project to include Raylib.
+   - Add Raylib's header files and link against the library. Detailed instructions can be found on the [Raylib wiki](https://github.com/raysan5/raylib/wiki).
 
-By following these steps, you'll have Raylib installed on your Windows system and ready to use for game development.
+4. **Testing Installation**:
+   - Compile and run one of the example programs provided with Raylib to ensure everything is set up correctly.
+
+Following these steps will get Raylib installed on your Windows system and ready for game development.
+
+## Additional Resources
+
+- [Raylib GitHub Repository](https://github.com/raysan5/raylib)
+- [Raylib Wiki for more detailed setup instructions](https://github.com/raysan5/raylib/wiki)
+- [Raylib Examples](https://github.com/raysan5/raylib/tree/master/examples) for learning and inspiration
+
 
 # Youtube Link
 https://youtu.be/ITbKLADUMTg?si=4XqCRidm6H7hnvNw
